@@ -13,8 +13,30 @@ It's a simple ordering system.
 
 
 2.餐座界面
-
+resycle view列表
 
 
 
 3.点单界面
+resycle view列表
+
+
+
+4.餐座情况界面
+resycle view列表
+
+
+
+5.分析界面
+graph view
+/resycle view列表
+
+
+
+6.数据库
+employeer
+menu
+daily
+
+
+
