@@ -10,6 +10,11 @@
         android:text="桌位表"
         android:textSize="40dp"
         android:gravity="center"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/list"/>
+
 
 
 </LinearLayout>
